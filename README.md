@@ -13,3 +13,5 @@ We've built a simple application that demonstrates how LaunchDarkly's SDK works.
 ## Running
 
 To run the application use `yarn <android|ios>`
+
+
